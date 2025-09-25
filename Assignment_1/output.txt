@@ -1,0 +1,5 @@
+nilam@Khyati:/mnt/c/Users/nilam/Downloads/hardwre_security/assignment_1$ gcc first_problem.c
+nilam@Khyati:/mnt/c/Users/nilam/Downloads/hardwre_security/assignment_1$ ./a.out
+Memory Type     Measured Latency (cycles)
+Cache           78.25
+DRAM            456.39
